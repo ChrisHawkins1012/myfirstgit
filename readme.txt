@@ -1,1 +1,3 @@
 this is my great readme file -- welcome!
+
+The learning curver is steep.  Hope not to get lost in here.  Maybe to invest in a flashlight...
